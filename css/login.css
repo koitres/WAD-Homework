@@ -2,18 +2,23 @@
     font-family: Helvetica;
     box-sizing: border-box;
 }
+
 .nav a{
     text-decoration: none;
 }
+
 .nav a:visited{
     color: black;
 }
+
 a:hover{
     background-color: #dbd7da;
 }
+
 section{
     margin-top: 10px;
 }
+
 .nav{
     display:flex;
     align-items: center;
@@ -29,7 +34,7 @@ section{
     background-color: #b6afb4;
     border-radius: 10px;
     width: 100%; 
-    min-width: 300px;
+    min-width: 250px;
 }
 
 .login {
@@ -39,7 +44,7 @@ section{
 }
 
 .loginBody {
-    width: 30%;
+    width: 25%;
     height: 50%;
     background-color: #dbd7da;
     margin-top: 35px;
@@ -48,30 +53,31 @@ section{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 15px 25px;
+    padding: 18px 25px;
     min-width: 300px;
     gap: 5px;
 }
 
 .loginBody > a {
     font-size: 15px;
-    color: rgb(61, 204, 252);
+    color: rgb(36, 147, 184);
 }
 
 .loginBody > a {
-    cursor: pointer; 
+    cursor: pointer;
+    letter-spacing: 1px;
 }
 
 .loginBody > p {
     font-size: 15px;
     font-weight: 400;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 .welcome {
     font-size: 18px !important;
     font-weight: 600 !important;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     margin-top: 0px;
 }
 
@@ -82,7 +88,7 @@ section{
 
 .orText ~ p {
     margin-top: 3px;
-    margin-bottom: 10px;
+    margin-bottom: 7px;
 }
 
 .fields {
@@ -95,10 +101,11 @@ section{
 .textfield {
     margin: 0px;
     font-size: 14px;
-    padding: 3px 0px 3px 3px;
+    padding: 5px 0px 5px 5px;
     border-radius: 3px;
-    width: 75%;
+    width: 100%;
     border: none;
+    color: grey;
 }
 
 input#loginButton {
@@ -108,7 +115,7 @@ input#loginButton {
     align-items: center;
     width: 70px;
     height: 30px;
-    background-color: rgb(44, 44, 108);
+    background-color: rgb(24, 67, 130);
     color: white;
     border-radius: 3px;
     text-decoration: none;
