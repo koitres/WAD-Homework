@@ -1,8 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
    <head>
-      <title>HTML base Tag</title>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="css/addPost.css">
+      <title>addPost</title>
    </head>
    <body>
+   <div class="header">
+      <div class="nav">
+         <a href="index.html">Home</a>
+      </div>
+      <div class="pic">
+         <img src="img/noprofilepic.jpg" width="50" height="50" alt="My picture">
+      </div>
+   </div>
+   <main>
+   <div class="addPost">
+      <div class="postBody">
+         <label for="postBody">Post <br> body</label>
+         <textarea id="postBody" name="postBody" rows="4" cols="15">textarea</textarea>
+      </div>
+      <div class="selectFile">
+         <label for="chooseFile"> Select <br> file</label>
+         <button class="button" id="chooseFile">Choose File</button>
+      </div>
+      <a class="button" id="createPost" href="index.html">Create post</a>
+
+   </div>
+
+   </main>
+
    </body>
 </html>
