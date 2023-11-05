@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Oct 22, 2022",
+    "img": "https://media.discordapp.net/attachments/784396416951779387/1170751435202363514/image.png",
+    "body": "Tartu 2022"
+  },
+  {
+    "id": 2,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Oct 2, 2022",
+    "img": "",
+    "body": "Anyone knows in which room is the lab today?"
+  },
+  {
+    "id": 3,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Sep 22, 2022",
+    "img": "",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "id": 4,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Aug 29, 2022",
+    "img": "",
+    "body": "What do you call a dog that knows magic? A Labracadabrador xd"
+  },
+  {
+    "id": 5,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Aug 12, 2022",
+    "img": "",
+    "body": "Pineapple is not for pizzas.."
+  },
+  {
+    "id": 5,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Aug 9, 2022",
+    "img": "https://media.tenor.com/oXdKbZ9WBIoAAAAd/cat-blink-cat-blinking.gif",
+    "body": "So cute omg"
+  },
+  {
+    "id": 6,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Aug 1, 2022",
+    "img": "https://media.tenor.com/IgXQnR5EnvMAAAAd/black-guy-suit-black-guy-funny.gif",
+    "body": "My new fit, rate it"
+  },
+  {
+    "id": 7,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Jun 24, 2022",
+    "img": "",
+    "body": "Jaanipäeva pohmakas....."
+  },
+  {
+    "id": 8,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Jun 2, 2022",
+    "img": "https://media.discordapp.net/attachments/784396416951779387/1170746738886320169/Bubble-sort-example-300px.gif",
+    "body": "Invented a new sorting algorithm????"
+  },
+  {
+    "id": 9,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "May 21, 2022",
+    "img": "",
+    "body": "Exams coming soon.."
+  },
+  {
+    "id":10,
+    "profilePic": "res/img/noprofilepic.jpg",
+    "authorName": "noName",
+    "date": "Jan 1, 2022",
+    "img": "https://media.discordapp.net/attachments/784396416951779387/1170749261080694914/image.png",
+    "body": "Happy new year!"
+  }
+]
