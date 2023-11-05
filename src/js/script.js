@@ -52,4 +52,16 @@ window.onload = function () {
             }
         })
         .catch(err => console.error('Error', err))
+
+        function myFunction() {
+            var x = document.getElementById("myDropdown");
+            if (x.style.display === "none" || x.style.display === "") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    
+        
+        window.myFunction = myFunction;
 }
