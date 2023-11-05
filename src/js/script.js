@@ -1,3 +1,5 @@
+//https://www.npoint.io/docs/fc55a1a94be81c147f11 link to json editor
+
 window.onload = function () {
     fetch('res/json/posts.json')
     //fetch('https://api.npoint.io/fc55a1a94be81c147f11')
