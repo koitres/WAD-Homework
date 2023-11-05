@@ -1,5 +1,6 @@
 window.onload = function () {
-    fetch('https://api.npoint.io/fc55a1a94be81c147f11')
+    fetch('res/json/posts.json')
+    //fetch('https://api.npoint.io/fc55a1a94be81c147f11')
         .then((response) => response.json())
         .then(json => {
             console.log(json)
@@ -36,7 +37,7 @@ window.onload = function () {
                     imgElement.style.height = 'auto'
                     postDiv.appendChild(imgElement)
                 }
-                
+
                 postDiv.appendChild(bodyElement);
                 postDiv.className="post";
 
@@ -46,7 +47,6 @@ window.onload = function () {
                 postFooterImg.height = '40'
                 postFooterDiv.appendChild(postFooterImg)
                 postDiv.appendChild(postFooterDiv)
-
 
                 document.querySelector(".posts").appendChild(postDiv)
             }
